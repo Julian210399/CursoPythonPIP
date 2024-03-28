@@ -1,1 +1,0 @@
-print("Modulo 2")
